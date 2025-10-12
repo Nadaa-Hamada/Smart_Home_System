@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_qt_kiosk_dashboard_FILE /home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/qt_kiosk_dashboard)
+set(__QT_DEPLOY_TARGET_qt_kiosk_dashboard_TYPE EXECUTABLE)

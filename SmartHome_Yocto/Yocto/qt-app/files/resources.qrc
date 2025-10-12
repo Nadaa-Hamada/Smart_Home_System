@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/greenoff.jpeg</file>
+        <file>Icons/greenon.jpeg</file>
+        <file>Icons/motion.png</file>
+        <file>Icons/redoff.jpeg</file>
+        <file>Icons/redon.png</file>
+<file>Icons/lighton.png</file>
+<file>Icons/lightoff.png</file>
+<file>Icons/yellowoff.jpeg</file>
+<file>Icons/yellowon.jpeg</file>
+<file>Icons/splash.jpeg</file>
+       
+    </qresource>
+</RCC>

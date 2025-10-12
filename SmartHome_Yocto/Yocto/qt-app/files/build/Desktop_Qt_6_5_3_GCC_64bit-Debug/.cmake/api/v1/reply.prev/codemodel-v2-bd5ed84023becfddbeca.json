@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-333b06d112af3f85095a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SmartHome3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartHome3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartHome3-Debug-ddd0cf0520296221c3ca.json",
+					"name" : "SmartHome3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartHome3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartHome3_autogen-Debug-1450915250a03f386854.json",
+					"name" : "SmartHome3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartHome3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartHome3_autogen_timestamp_deps-Debug-9eba3df0d69477b74675.json",
+					"name" : "SmartHome3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/nedaa/SmartHome3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

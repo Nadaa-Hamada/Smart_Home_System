@@ -1,0 +1,12 @@
+[Unit]
+Description=mjpg-streamer webcam server
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/mjpg_streamer -i "input_uvc.so -y -n -f 15 -r 640x480" -o "output_http.so -p 8081 -w /usr/local/www"
+WorkingDirectory=/usr/local/www
+User=pi
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

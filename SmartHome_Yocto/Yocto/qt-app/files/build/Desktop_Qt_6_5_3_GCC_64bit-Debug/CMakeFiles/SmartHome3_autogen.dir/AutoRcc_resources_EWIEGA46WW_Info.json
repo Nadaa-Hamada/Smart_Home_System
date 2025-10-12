@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/SmartHome3_autogen",
+	"CMAKE_BINARY_DIR" : "/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/nedaa/SmartHome3",
+	"CMAKE_SOURCE_DIR" : "/home/nedaa/SmartHome3",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/SmartHome3_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/nedaa/SmartHome3/Icons/lighton.png",
+		"/home/nedaa/SmartHome3/Icons/redon.png",
+		"/home/nedaa/SmartHome3/Icons/lightoff.png",
+		"/home/nedaa/SmartHome3/Icons/splash.jpeg",
+		"/home/nedaa/SmartHome3/Icons/motion.png",
+		"/home/nedaa/SmartHome3/Icons/redoff.jpeg",
+		"/home/nedaa/SmartHome3/Icons/yellowon.jpeg",
+		"/home/nedaa/SmartHome3/Icons/greenoff.jpeg",
+		"/home/nedaa/SmartHome3/Icons/yellowoff.jpeg",
+		"/home/nedaa/SmartHome3/Icons/greenon.jpeg"
+	],
+	"LOCK_FILE" : "/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/SmartHome3_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/nedaa/Qt/6.5.3/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/SmartHome3_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/nedaa/SmartHome3/resources.qrc",
+	"VERBOSITY" : 0
+}

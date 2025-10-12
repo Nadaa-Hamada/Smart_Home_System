@@ -1,0 +1,9 @@
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/SmartHome3.dir
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/SmartHome3_autogen_timestamp_deps.dir
+/home/nedaa/SmartHome3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/SmartHome3_autogen.dir

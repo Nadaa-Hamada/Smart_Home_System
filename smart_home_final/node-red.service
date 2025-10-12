@@ -1,0 +1,13 @@
+[Unit]
+Description=Node-RED
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/env node-red
+WorkingDirectory=/home/pi/
+User=pi
+Restart=always
+Environment="NODE_OPTIONS=--max_old_space_size=256"
+
+[Install]
+WantedBy=multi-user.target

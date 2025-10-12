@@ -1,0 +1,15 @@
+[Unit]
+Description=GPIO Reader Service (writes GPIO value to /run/gpio_value.txt)
+After=local-fs.target
+Wants=local-fs.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/read_gpio.sh 
+Restart=always
+RestartSec=2
+# Runs as root so it can access /sys/class/gpio
+User=root
+
+[Install]
+WantedBy=multi-user.target

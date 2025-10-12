@@ -1,0 +1,18 @@
+[Unit]
+Description=Qt App (SmartHome quick test)
+After=weston.service smartsensors.service
+Wants=weston.service smartsensors.service
+
+[Service]
+Type=simple
+User=pi
+Environment=WAYLAND_DISPLAY=wayland-1
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+ExecStart=/usr/bin/qt-app
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

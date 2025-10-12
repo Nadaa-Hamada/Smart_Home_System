@@ -1,0 +1,9 @@
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/qt_kiosk_dashboard.dir
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/qt_kiosk_dashboard_autogen_timestamp_deps.dir
+/home/nada-hamada/Documents/QT/qt_kiosk_dashboard/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/qt_kiosk_dashboard_autogen.dir

@@ -1,0 +1,15 @@
+[Unit]
+Description=Smart Sensors Service (C++)
+After=network.target dev-ttyACM0.device
+Requires=dev-ttyACM0.device
+[Service]
+ExecStart=/usr/bin/smartsensors
+Restart=always
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
+
